@@ -39,7 +39,7 @@ Templating System
 
 * PHP-based
 * Pages go in root as .php files
-* `require_once '_backend/preload.php';`, set any variables, then `include $template['header'];` (see [code-of-conduct](https://github.com/elementary/website/blob/master/code-of-conduct.php) for an example) at top of page.
+* `require_once '_backend/preload.php';`, set any variables, then `include $template['header'];` (see [code-of-conduct](https://github.com/dheerajkabra1/website/blob/master/code-of-conduct.php) for an example) at top of page.
 * `include $template['footer'];` at bottom of page.
 * Page variables:
   * `$page['title']`
@@ -49,7 +49,7 @@ Templating System
 Contributing
 ============
 
-See guidelines for [coding](https://github.com/elementary/website/blob/master/.github/CONTRIBUTING.md) and [translating](https://github.com/elementary/website/blob/master/TRANSLATE.md).
+See guidelines for [coding](https://github.com/dheerajkabra1/website/blob/master/.github/CONTRIBUTING.md) and [translating](https://github.com/dheerajkabra1/website/blob/master/TRANSLATE.md).
 
 Security
 ========
